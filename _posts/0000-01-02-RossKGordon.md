@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*yes* **yes** [link test]https://reddit.com
 Use the left arrow to go back!
